@@ -2,4 +2,4 @@
 import sys
 import io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-print("日本語の\r\n出力！！！")
+print("Git\r\nちゃんと履歴管理できるかな！！！")
